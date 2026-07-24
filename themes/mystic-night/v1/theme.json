@@ -1,0 +1,159 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "Mystic Night",
+  "id": "mystic-night",
+  "version": 1.3,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://notesnook.com",
+  "description": "Mystic Night for mystic notes",
+  "colorScheme": "dark",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "riiku",
+      "email": "pixelated@posteo.org",
+      "url": "https://tech.lgbt/@riiku"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#8fbcd4",
+        "paragraph": "#cbd5e1",
+        "background": "#0f111a",
+        "border": "#1c1e26",
+        "heading": "#e2e8f0",
+        "icon": "#8fbcd4",
+        "separator": "#1c1e26",
+        "placeholder": "#6b7280",
+        "hover": "#181a23",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      },
+      "secondary": {
+        "accent": "#8fbcd4",
+        "paragraph": "#9ca3af",
+        "background": "#1c1e26",
+        "border": "#2a2d3a",
+        "heading": "#cbd5e1",
+        "icon": "#9ca3af",
+        "separator": "#2a2d3a",
+        "placeholder": "#6b7280",
+        "hover": "#242730",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      },
+      "disabled": {
+        "accent": "#5a7a8f",
+        "paragraph": "#6b7280",
+        "background": "#1c1e26",
+        "border": "#2a2d3a",
+        "heading": "#6b7280",
+        "icon": "#6b7280",
+        "separator": "#2a2d3a",
+        "placeholder": "#4b5563",
+        "hover": "#1c1e26",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      },
+      "selected": {
+        "accent": "#a3d4ed",
+        "paragraph": "#e2e8f0",
+        "background": "#2a2d3a",
+        "border": "#8fbcd4",
+        "heading": "#e2e8f0",
+        "icon": "#a3d4ed",
+        "separator": "#3a3e4e",
+        "placeholder": "#6b7280",
+        "hover": "#343846",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      },
+      "error": {
+        "accent": "#ef8b8b",
+        "paragraph": "#ef8b8b",
+        "background": "#231618",
+        "border": "#3d2629",
+        "heading": "#ef8b8b",
+        "icon": "#ef8b8b",
+        "separator": "#3d2629",
+        "placeholder": "#6b7280",
+        "hover": "#1c1e26",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      },
+      "success": {
+        "accent": "#95d99b",
+        "paragraph": "#95d99b",
+        "background": "#182119",
+        "border": "#2a3d2d",
+        "heading": "#95d99b",
+        "icon": "#95d99b",
+        "separator": "#2a3d2d",
+        "placeholder": "#6b7280",
+        "hover": "#1c1e26",
+        "accentForeground": "#0f111a",
+        "backdrop": "#0f111a99"
+      }
+    },
+    "statusBar": {
+      "primary": {
+        "paragraph": "#cbd5e1",
+        "background": "#0f111a",
+        "separator": "#1c1e26"
+      }
+    },
+    "list": {
+      "primary": {
+        "paragraph": "#cbd5e1",
+        "background": "#1c1e26",
+        "hover": "#242730",
+        "border": "#363a46"
+      },
+      "secondary": {
+        "paragraph": "#9ca3af"
+      },
+      "selected": {
+        "background": "#2a2d3a",
+        "hover": "#343846"
+      }
+    },
+    "editor": {
+      "primary": {
+        "background": "#0f111a",
+        "border": "#1c1e26"
+      },
+      "secondary": {
+        "paragraph": "#6b7280",
+        "border": "#1c1e26"
+      },
+      "selected": {
+        "background": "#2a2d3a"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "background": "#0f111a",
+        "hover": "#242730"
+      },
+      "secondary": {
+        "background": "#242730"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "background": "#0f111a",
+        "hover": "#181a23"
+      },
+      "selected": {
+        "background": "#2a2d3a",
+        "hover": "#343846"
+      }
+    },
+    "sheet": {
+      "selected": {
+        "paragraph": "#95d99b"
+      }
+    }
+  }
+}

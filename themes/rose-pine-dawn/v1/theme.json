@@ -1,0 +1,158 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetwriters/notesnook-themes/main/schemas/v1.schema.json",
+  "name": "Rosé Pine Dawn",
+  "id": "rose-pine-dawn",
+  "version": 1.2,
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://notesnook.com",
+  "description": "Rosé Pine Dawn variant",
+  "colorScheme": "light",
+  "compatibilityVersion": 1,
+  "authors": [
+    {
+      "name": "riiku",
+      "email": "pixelated@posteo.org",
+      "url": "https://tech.lgbt/@riiku"
+    }
+  ],
+  "scopes": {
+    "base": {
+      "primary": {
+        "accent": "#b4637a",
+        "paragraph": "#575279",
+        "background": "#faf4ed",
+        "border": "#f2e9e1",
+        "heading": "#575279",
+        "icon": "#b4637a",
+        "separator": "#f2e9e1",
+        "placeholder": "#9893a5",
+        "hover": "#f4ede8",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      },
+      "secondary": {
+        "accent": "#b4637a",
+        "paragraph": "#575279",
+        "background": "#f2e9e1",
+        "border": "#dfdad9",
+        "heading": "#575279",
+        "icon": "#575279",
+        "separator": "#dfdad9",
+        "placeholder": "#9893a5",
+        "hover": "#f4ede8",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      },
+      "disabled": {
+        "accent": "#b4637a",
+        "paragraph": "#9893a5",
+        "background": "#f2e9e1",
+        "border": "#dfdad9",
+        "heading": "#9893a5",
+        "icon": "#9893a5",
+        "separator": "#dfdad9",
+        "placeholder": "#9893a5",
+        "hover": "#f4ede8",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      },
+      "selected": {
+        "accent": "#b4637a",
+        "paragraph": "#575279",
+        "background": "#dfdad9",
+        "border": "#b4637a",
+        "heading": "#575279",
+        "icon": "#b4637a",
+        "separator": "#dfdad9",
+        "placeholder": "#9893a5",
+        "hover": "#cecacd",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      },
+      "error": {
+        "accent": "#d7827e",
+        "paragraph": "#d7827e",
+        "background": "#f2e9e1",
+        "border": "#d7827e",
+        "heading": "#d7827e",
+        "icon": "#d7827e",
+        "separator": "#dfdad9",
+        "placeholder": "#9893a5",
+        "hover": "#f4ede8",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      },
+      "success": {
+        "accent": "#286983",
+        "paragraph": "#286983",
+        "background": "#f2e9e1",
+        "border": "#286983",
+        "heading": "#286983",
+        "icon": "#286983",
+        "separator": "#dfdad9",
+        "placeholder": "#9893a5",
+        "hover": "#f4ede8",
+        "accentForeground": "#faf4ed",
+        "backdrop": "#faf4ed99"
+      }
+    },
+    "statusBar": {
+      "primary": {
+        "paragraph": "#575279",
+        "background": "#f4ede8",
+        "separator": "#f2e9e1"
+      }
+    },
+    "list": {
+      "primary": {
+        "paragraph": "#575279",
+        "background": "#f2e9e1",
+        "border": "#9893a5",
+        "hover": "#f4ede8"
+      },
+      "secondary": {
+        "paragraph": "#575279"
+      },
+      "selected": {
+        "background": "#dfdad9",
+        "hover": "#cecacd"
+      }
+    },
+    "editor": {
+      "primary": {
+        "background": "#faf4ed",
+        "border": "#f2e9e1"
+      },
+      "secondary": {
+        "paragraph": "#9893a5",
+        "border": "#f2e9e1"
+      },
+      "selected": {
+        "background": "#cecacd"
+      }
+    },
+    "editorToolbar": {
+      "primary": {
+        "background": "#faf4ed",
+        "hover": "#f4ede8"
+      },
+      "secondary": {
+        "background": "#dfdad9"
+      }
+    },
+    "navigationMenu": {
+      "primary": {
+        "background": "#faf4ed",
+        "hover": "#f4ede8"
+      },
+      "selected": {
+        "hover": "#f4ede8"
+      }
+    },
+    "sheet": {
+      "selected": {
+        "paragraph": "#286983"
+      }
+    }
+  }
+}
